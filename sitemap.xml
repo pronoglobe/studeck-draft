@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>/categories.html</loc>
+    </url>
+    <url>
+        <loc>/contacts.html</loc>
+    </url>
+    <url>
+        <loc>/faq.html</loc>
+    </url>
+    <url>
+        <loc>/features.html</loc>
+    </url>
+    <url>
+        <loc>/forgotten-password.html</loc>
+    </url>
+    <url>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/integrations.html</loc>
+    </url>
+    <url>
+        <loc>/login.html</loc>
+    </url>
+    <url>
+        <loc>/signup.html</loc>
+    </url>
+    <url>
+        <loc>/testimonials.html</loc>
+    </url>
+</urlset>
